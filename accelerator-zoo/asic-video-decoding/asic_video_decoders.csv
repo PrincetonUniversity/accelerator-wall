@@ -1,0 +1,13 @@
+Title, Conference, CMOS Technology[nm], Frequency[MHz], Logic Transistors, SRAM Transistors, Power[W], Throughput[MPixels/s], Energy Efficiency[MPixels/J], CMOS Potential Throughput, CMOS Potential Energy Efficiency
+A 160kgate 4.5kB SKRAM H.264 video decoder for HDTV applications, ISSCC2006, 180, 120.0, 640000.0, 221184.0, 320.0, 62.66304, 0.195822, 103342080.0, 1108033.241
+A 252kgate/71mW Multi-Standard Multi-Channel Video Decoder for High Definition Video Applications, ISSCC2007, 130, 120.0, 1008000.0, 240844.8, 71.0, 62.6688, 0.88265915493, 149861376.0, 4490345.75662
+A 1080p@60fps multi-standard video decoder chip designed for power and cost efficiency in a system perspective, VLSI2009, 130, 200.0, 1468000.0, 540672.0, 257.0, 124.416, 0.484108949416, 401734400.0, 7369196.75755
+A 59.5mW scalable/multi-view video decoder chip for Quad/3D Full HDTV and video streaming applications, ISSCC2010, 90, 320.0, 1657120.0, 442368.0, 60.0, 212.33664, 3.538944, 671836160.0, 23124060.585
+A 530 Mpixels/s 4096x2160@60fps H.264/AVC High Profile Video Decoder Chip, JSSC2011, 90, 175.0, 2648000.0, 2929459.2, 189.0, 530.0, 2.80423280423, 976055360.0, 13002934.9482
+A 216fps 4096×2160p 3DTV set-top box SoC for free-viewpoint 3DTV applications, ISSCC2011, 40, 240.0, 5664000.0, 978124.8, 70.0, 265.4208, 3.79172571429, 1594109952.0, 45801526.7176
+A 2Gpixel/s H.264/AVC HP/MVC video decoder chip for Super Hi-Vision and 3DTV/FTV applications, ISSCC2012, 65, 400.0, 5352000.0, 3932160.0, 410.0, 1990.0, 4.85365853659, 3713664000.0, 43159257.6608
+A 249-Mpixel/s HEVC Video-Decoder Chip for 4K Ultra-HD Applications, ISSCC2013, 40, 200.0, 2860000.0, 6094848.0, 76.0, 249.0, 3.27631578947, 1790969600.0, 38461538.4615
+A 0.2nJ/pixel 4K 60fps Main-10 HEVC decoder with multi-format capabilities for UHD-TV applications, ESSCIRC2014, 28, 350.0, 13816000.0, 7569408.0, 104.0, 531.0, 5.10576923077, 7484892800.0, 153005464.481
+A 0.5 nJ/Pixel 4 K H.265/HEVC Codec LSI for Multi-Format Smartphone Applications, JSSC2016, 28, 300.0, 14232000.0, 15138816.0, 45.0, 250.0, 5.55555555556, 8811244800.0, 132450331.126
+A 2.6mm2  0.19nJ/pixel VP9 and multi-standard decoder LSI for Android 4K TV applications, ESSCIRC2016, 28, 350.0, 12708000.0, 6782976.0, 80.0, 531.0, 6.6375, 6821841600.0, 153005464.481
+An 8K H.265/HEVC Video Decoder Chip With a New System Pipeline Design, JSSC2017, 40, 300.0, 11548000.0, 19464192.0, 690.0, 4000.0, 5.79710144928, 9303657600.0, 56603773.5849
